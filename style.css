@@ -1,0 +1,53 @@
+img{
+    max-width: 100%;
+    height: auto;
+    background: lightblue;
+    background: radial-gradient(white 30%, lightblue 70%);
+}
+
+.fa-star,
+.fa-star-half{
+    color: yellowgreen;
+    padding: 3% 0;
+}
+
+#cart_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.cart-items + .cart-items{
+    padding: 2% 0;
+}
+
+.price-details h6{
+    padding: 3% 2%;
+}
+
+<!--<nav>
+        <div class="navbar" id="navbar">
+            <div class="nav" id="nav">
+                <div class="logo" id="top-nav"><a href="index.php"><img src=".//images/logo.png" height="60px"></a></div>
+                <div class="sayatitle" id="top-nav"><span class="saya">SAYA ENTERPRISES</span><br><span class="slogan">Sales and Services of Agricultural Machineries and Implements</span> </div>
+                <div class="cart" id="top-nav"><a href="./cart.php"><i class="fa-solid fa-cart-shopping fa-2x"></i></a></div>
+                <div class="login" id="top-nav"><h4 class="log"><a href="login.php">LOGIN / SIGN UP</a></h4></div>
+                <!-- <a href="#">LOGIN</a> -->
+            </div>
+            <div class="navb" id="nav">
+                <ul class="bot-nav" id="bot-nav">
+                        <li><h4><a href="index.php">HOME</a></h4></li>
+                        <li><h4><a href="aboutUs.php">ABOUT US</a></h4></li>
+                        <li><h4><a href="products.php">PRODUCTS & SERVICES</a></h4></li>
+                        <li><h4><a href="branches.php">BRANCHES</a></h4></li>
+                        <li><h4><a href="gallery.php">GALLERY & DEMOS</a></h4></li>
+                        <li><h4><a href="developers.php">DEVELOPERS</a></h4></li>      
+                </ul>
+            </div>
+        </div> 
+    </nav>-->
+    
